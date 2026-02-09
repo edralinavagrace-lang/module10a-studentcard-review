@@ -1,16 +1,16 @@
-# React + Vite
+# Module 9A - Build Your First React Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a React app created using Vite that renders a UserProfile component. The component includes a name, bio, and image styled with inline CSS.
 
-Currently, two official plugins are available:
+## What I Learned
+- How to set up a React project using Vite
+- How to write and structure a functional React component
+- How to use JSX and inline styles
+- How to render a component in App.jsx
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Challenges
+I encountered one error where React did not have anything, so I added one line of code to the top.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshot
+<img width="814" height="828" alt="StudentCard" src="https://github.com/user-attachments/assets/edf2927f-5513-4ece-b477-2ba5248fd408" />
